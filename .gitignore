@@ -1,0 +1,8 @@
+*.iml
+.idea
+target/
+journal/
+snapshots/
+node_modules/
+bin
+.vscode
