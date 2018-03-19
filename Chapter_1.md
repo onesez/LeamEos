@@ -26,3 +26,11 @@ cd eos
 >cd ~/eos/build/programs/eosiod/
 >
 >执行 eosiod
+>
+>![](./image/Chapter_1/2.png)
+>
+> 好了节点就启动起来了
+>
+> 下一章将在本地节点上创建钱包，账户等功能。
+>
+>[下一章](./Chapter_2.md)
